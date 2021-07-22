@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #CDN 服务器自动安装脚本
 ##说明
@@ -25,3 +26,6 @@ Please input the location of the CRT
 
 Redirect all HTTP to HTTPS ? ('y' or 'n')
 <strong>选择y或者n来选择是否启用强制跳转所有http至https协议</strong>
+=======
+# test
+>>>>>>> a56c31d506af980b8b5d5f39da0072ac59641945
